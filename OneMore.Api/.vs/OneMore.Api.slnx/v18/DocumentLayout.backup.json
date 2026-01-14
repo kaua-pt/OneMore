@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programas\\OneMore\\OneMore.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\hubs\\sessionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\hubs\\sessionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|d:\\programas\\onemore\\onemore.api\\onemore.domain\\handlers\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|solutionrelative:onemore.domain\\handlers\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|d:\\programas\\onemore\\onemore.api\\onemore.domain\\commands\\sessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|solutionrelative:onemore.domain\\commands\\sessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|d:\\programas\\onemore\\onemore.api\\onemore.infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|solutionrelative:onemore.infra\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|d:\\programas\\onemore\\onemore.api\\onemore.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|solutionrelative:onemore.domain\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|d:\\programas\\onemore\\onemore.api\\onemore.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AF3D-81A5-2057-C1E4-5654C81DAE1C}|OneMore.Domain\\OneMore.Domain.csproj|solutionrelative:onemore.domain\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\services\\abstract\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\services\\abstract\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|d:\\programas\\onemore\\onemore.api\\onemore.infra\\onemore.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|solutionrelative:onemore.infra\\onemore.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|d:\\programas\\onemore\\onemore.api\\onemore.infra\\data\\repositories\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EB3CC3-B902-0519-87C2-123103A94AB7}|OneMore.Infra\\OneMore.Infra.csproj|solutionrelative:onemore.infra\\data\\repositories\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\hubs\\connmanager\\inmemoryconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\hubs\\connmanager\\inmemoryconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\hubs\\connmanager\\redisconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\hubs\\connmanager\\redisconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\hubs\\connmanager\\iconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\hubs\\connmanager\\iconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|d:\\programas\\onemore\\onemore.api\\onemore.api\\onemore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DBF3871-6E60-42B0-8068-D2239C1A8D28}|OneMore.Api\\OneMore.Api.csproj|solutionrelative:onemore.api\\onemore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Services\\SessionService.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Services\\SessionService.cs",
+              "RelativeToolTip": "OneMore.Api\\Services\\SessionService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAjwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:03:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionHub.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\SessionHub.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Hubs\\SessionHub.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\SessionHub.cs",
+              "RelativeToolTip": "OneMore.Api\\Hubs\\SessionHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T14:02:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionCommand.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Commands\\SessionCommand.cs",
+              "RelativeDocumentMoniker": "OneMore.Domain\\Commands\\SessionCommand.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Commands\\SessionCommand.cs",
+              "RelativeToolTip": "OneMore.Domain\\Commands\\SessionCommand.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIAwwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T03:46:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionHandler.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Handlers\\SessionHandler.cs",
+              "RelativeDocumentMoniker": "OneMore.Domain\\Handlers\\SessionHandler.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Handlers\\SessionHandler.cs",
+              "RelativeToolTip": "OneMore.Domain\\Handlers\\SessionHandler.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAWwHEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:23:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "OneMore.Domain\\Entities\\Session.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Entities\\Session.cs",
+              "RelativeToolTip": "OneMore.Domain\\Entities\\Session.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:50:05.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OneMore.Api\\appsettings.json",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\appsettings.json",
+              "RelativeToolTip": "OneMore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T17:45:52.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "OneMore.Infra\\Data\\DataContext.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\Data\\DataContext.cs",
+              "RelativeToolTip": "OneMore.Infra\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:25:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "OneMore.Domain\\Entities\\Player.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Domain\\Entities\\Player.cs",
+              "RelativeToolTip": "OneMore.Domain\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T23:55:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Program.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Program.cs",
+              "RelativeToolTip": "OneMore.Api\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:03:55.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Services\\Abstract\\ISessionService.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Services\\Abstract\\ISessionService.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Services\\Abstract\\ISessionService.cs",
+              "RelativeToolTip": "OneMore.Api\\Services\\Abstract\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T04:08:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InMemoryConnectionManager.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\InMemoryConnectionManager.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Hubs\\ConnManager\\InMemoryConnectionManager.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\InMemoryConnectionManager.cs",
+              "RelativeToolTip": "OneMore.Api\\Hubs\\ConnManager\\InMemoryConnectionManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:07:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WordRepository.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\Data\\Repositories\\WordRepository.cs",
+              "RelativeDocumentMoniker": "OneMore.Infra\\Data\\Repositories\\WordRepository.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\Data\\Repositories\\WordRepository.cs",
+              "RelativeToolTip": "OneMore.Infra\\Data\\Repositories\\WordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:23:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OneMore.Infra.csproj",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\OneMore.Infra.csproj",
+              "RelativeDocumentMoniker": "OneMore.Infra\\OneMore.Infra.csproj",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Infra\\OneMore.Infra.csproj",
+              "RelativeToolTip": "OneMore.Infra\\OneMore.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T09:27:07.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RedisConnectionManager.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\RedisConnectionManager.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Hubs\\ConnManager\\RedisConnectionManager.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\RedisConnectionManager.cs",
+              "RelativeToolTip": "OneMore.Api\\Hubs\\ConnManager\\RedisConnectionManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:03:06.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IConnectionManager.cs",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\IConnectionManager.cs",
+              "RelativeDocumentMoniker": "OneMore.Api\\Hubs\\ConnManager\\IConnectionManager.cs",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\Hubs\\ConnManager\\IConnectionManager.cs",
+              "RelativeToolTip": "OneMore.Api\\Hubs\\ConnManager\\IConnectionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:03:09.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OneMore.Api.csproj",
+              "DocumentMoniker": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\OneMore.Api.csproj",
+              "RelativeDocumentMoniker": "OneMore.Api\\OneMore.Api.csproj",
+              "ToolTip": "D:\\Programas\\OneMore\\OneMore.Api\\OneMore.Api\\OneMore.Api.csproj",
+              "RelativeToolTip": "OneMore.Api\\OneMore.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T19:01:49.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

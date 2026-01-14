@@ -1,0 +1,17 @@
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Infra.deps.json
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Infra.runtimeconfig.json
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Infra.dll
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Infra.pdb
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.csproj.AssemblyReference.cache
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.AssemblyInfoInputs.cache
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.AssemblyInfo.cs
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.csproj.CoreCompileInputs.cache
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.dll
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\refint\OneMore.Infra.dll
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.pdb
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore.Infra.genruntimeconfig.cache
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\ref\OneMore.Infra.dll
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Domain.dll
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\bin\Debug\net10.0\OneMore.Domain.pdb
+D:\Programas\OneMore\OneMore.Api\OneMore.Infra\obj\Debug\net10.0\OneMore..DF7A6AAE.Up2Date

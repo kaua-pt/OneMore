@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SignalR SessionHub Test</title>
+  <script src="https://unpkg.com/@microsoft/signalr@8.0.0/dist/browser/signalr.min.js"></script>
+</head>
+<body>
+
+  <button onclick="connect()">🔌 Conectar</button>
+  <button onclick="createSession()">➕ CreateSession</button>
+  <button onclick="joinSession()">👤 JoinSession</button>
+  <button onclick="leaveSession()">🚪 LeaveSession</button>
+  <button onclick="startGame()">🎮 StartGame</button>
+
+  <pre id="log"></pre>
+
+  <script>
+    let connection;
+    let session; // AQUI vamos guardar a sessão
+
+    function log(message) {
+      const el = document.getElementById("log");
+      el.textContent += message + "\n";
+    }
+
+    async function connect() {
+      connection = new signalR.HubConnectionBuilder()
+        .withUrl("https://localhost:7054/game")
+        .withAutomaticReconnect()
+        .build();
+
+      // 🔥 EVENTOS (RETORNOS DO BACKEND)
+      connection.on("SessionCreated", data => {
+        session = data;
+        console.log("📦 SessionCreated:", data);
+        log("SessionCreated → " + JSON.stringify(data, null, 2));
+      });
+
+      connection.on("Word", data => {
+        console.log("📝 Word recebida:", data);
+        log("Word → " + JSON.stringify(data));
+      });
+      
+      connection.on("PlayerJoined", data => {
+        console.log("👤 PlayerJoined:", data);
+        log("PlayerJoined → " + JSON.stringify(data));
+      });
+
+      connection.on("PlayerLeft", data => {
+        console.log("🚪 PlayerLeft:", data);
+        log("PlayerLeft → " + JSON.stringify(data));
+      });
+
+      connection.on("GameStarted", data => {
+        console.log("🎮 GameStarted:", data);
+        log("GameStarted → " + JSON.stringify(data));
+      });
+
+      try {
+        await connection.start();
+        console.log("✅ Conectado ao SessionHub");
+        log("Conectado");
+      } catch (e) {
+        console.error("❌ Erro ao conectar", e);
+      }
+    }
+
+    async function createSession() {
+      await invoke("CreateSession", {
+        sessionName: "Minha Sessão",
+        userName: "Jogador1"
+      });
+    }
+
+    async function joinSession() {
+      if (!session) {
+        alert("Crie ou receba a sessão primeiro");
+        return;
+      }
+
+      await invoke("JoinSession", {
+        sessionId: session.id,
+        userName: "Jogador2"
+      });
+    }
+
+    async function leaveSession() {
+      if (!session) return;
+
+      await invoke("LeaveSession", {
+        sessionId: session.id,
+        userName: "Jogador2"
+      });
+    }
+
+    async function startGame() {
+      if (!session) return;
+
+      await invoke("StartGame", {
+        userId: session.masterId,
+        sessionId: session.id
+      });
+    }
+
+    async function invoke(method, payload) {
+      if (!connection || connection.state !== "Connected") {
+        console.warn("⚠️ Não conectado");
+        return;
+      }
+
+      try {
+        await connection.invoke(method, payload);
+        console.log(`➡️ ${method}`, payload);
+        log(`${method} enviado`);
+      } catch (e) {
+        console.error(`❌ Erro em ${method}`, e);
+      }
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+@OneMore.Api_HostAddress = http://localhost:5207
+
+GET {{OneMore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
